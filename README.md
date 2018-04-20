@@ -5,5 +5,7 @@ Super resolution ( make blur image to clear image )
 
 After training about datas...
 doing test about test data
+
 ![output1](./image/sample2.png)
-![output2](./image/sample1.png)
+
+![output2](./image/sample1.PNG)
