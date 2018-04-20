@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:/Users/JAEKYU/Documents/Jupyter Notebook/Super_Resolution/Weight/Weight.ckpt"
+all_model_checkpoint_paths: "C:/Users/JAEKYU/Documents/Jupyter Notebook/Super_Resolution/Weight/Weight.ckpt"
